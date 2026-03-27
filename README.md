@@ -1,3 +1,3 @@
-# Welcome to your Lovable project
+# Just for hackathon
 
 TODO: Document your project here
